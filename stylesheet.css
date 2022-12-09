@@ -14,3 +14,13 @@ body {
   border-bottom-width: 3px;
   box-shadow: inset bottom 0 0 5rem rgba(0,0,0,.5);
 }
+
+#nav_item {
+  border-width: 1px;
+  border: solid;
+  border-radius: 1px;
+}
+
+#nav_item:hover {
+  background-color: rgb(255,255,255);
+}
